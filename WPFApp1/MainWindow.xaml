@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="525" WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <Label x:Name="lblDisplay" Content="" HorizontalAlignment="Left" Margin="66,53,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.716,-2.539" />
     </Grid>
 </Window>
