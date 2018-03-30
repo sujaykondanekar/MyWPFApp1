@@ -23,7 +23,7 @@ namespace WPFApp1
         public MainWindow()
         {
             InitializeComponent();
-            lblDisplay.Content = "My demo app version 20";
+            lblDisplay.Content = "My demo app version 21";
         }
     }
 }
