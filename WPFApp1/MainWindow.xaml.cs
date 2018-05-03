@@ -23,7 +23,7 @@ namespace WPFApp1
         public MainWindow()
         {
             InitializeComponent();
-            lblDisplay.Content = "Test Case for report";
+            lblDisplay.Content = "Test on google cloud";
         }
     }
 }
