@@ -22,14 +22,7 @@ namespace WPFApp1
         {
             InitializeComponent();
             lblDisplay.Content = "Test 3";
-            if(dataSet==null)
-             if(dataSet==null)
-              if(dataSet==null)
-               if(dataSet==null)
-                if(dataSet==null)
-                 if(dataSet==null)
-                  if(dataSet==null)
-                  
+            if(dataSet==null) 
             {
             //do nothing. Comment should appear here
             }
