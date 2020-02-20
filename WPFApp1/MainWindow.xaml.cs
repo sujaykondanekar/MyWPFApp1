@@ -22,6 +22,8 @@ namespace WPFApp1
         {
             InitializeComponent();
             lblDisplay.Content = "Test 3";
+            changed the line position to check if comment follows.
+            
             if(dataSet==null) 
             {
             //do nothing. Comment should appear here
