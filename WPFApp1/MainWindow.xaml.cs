@@ -27,6 +27,7 @@ namespace WPFApp1
             if(dataSet==null) 
             {
             //do nothing. Comment should appear here
+            //test hash for auth
             }
             if(null==record)
             {
