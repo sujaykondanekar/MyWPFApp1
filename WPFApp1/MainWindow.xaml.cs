@@ -29,7 +29,7 @@ namespace WPFApp1
             //do nothing. Comment should appear here
             //test hash for auth
             }
-            if(null==record)
+            if(null==record12)
             {
             //this becomes valid.
             }
