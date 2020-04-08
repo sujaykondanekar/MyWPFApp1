@@ -5,10 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
@@ -20,10 +18,21 @@ namespace WPFApp1
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        public MainWindow(decimal Variable1, bool IsEnabled)
         {
             InitializeComponent();
-            lblDisplay.Content = "Test 1 on google cloud";
+            lblDisplay.Content = "Test 3";
+            changed the line position to check if comment follows.
+            
+            if(dataSet==null) 
+            {
+            //do nothing. Comment should appear here
+            //test hash for auth
+            }
+            if(null==record12)
+            {
+            //this becomes valid.
+            }
         }
     }
 }
